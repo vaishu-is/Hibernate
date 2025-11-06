@@ -1,0 +1,4 @@
+package com.project.Dao;
+
+public class CourseDao {
+}
